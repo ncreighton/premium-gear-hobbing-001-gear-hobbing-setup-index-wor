@@ -1,0 +1,2 @@
+# premium-gear-hobbing-001-gear-hobbing-setup-index-wor
+Tired of recalculating index worm ratios and hunting for scattered setup notes every time you switch gear jobs? Stop losing hours to manual math and inconsistent documentation.  This Notion template centralizes all your gear hobbing setup parameters, index worm calculations, and machine-specific data into one searchable hub. Eliminate calculation e
